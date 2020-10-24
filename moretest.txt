@@ -1,1 +1,1 @@
-This is for exercise 3.
+Hello, this is my second commit of a cloned repository.
